@@ -1,0 +1,3 @@
+#!/bin/bash
+gcc "./100-intel.c" -o intel
+
