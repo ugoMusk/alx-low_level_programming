@@ -1,4 +1,5 @@
 #include "main.h"
+/*call _putchar function to print single characters*/
 int main(void)
 {
 	/*call _putchar function to print single characters*/
