@@ -1,6 +1,7 @@
 #include "main.h"
 int main(void)
 {
+	/*call _putchar function to print single characters*/
 	_putchar('_');
 	_putchar('p');
 	_putchar('u');
