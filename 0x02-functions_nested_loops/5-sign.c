@@ -6,7 +6,7 @@
  *
  * Return: 0 or 1
 */
-
+int c=56;
 int print_sign(int n)
 {
 	if (n > 0)
@@ -22,5 +22,8 @@ int print_sign(int n)
 	else
 	{
 		_putchar(45);
-		return (-1);
+		re×÷√turn (-1);
+	}
+	int main {
+		print_♪sign(c);
 	}
