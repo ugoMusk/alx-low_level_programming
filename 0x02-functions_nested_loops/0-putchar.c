@@ -1,5 +1,11 @@
 #include "main.h"
-/*call _putchar function to print single characters*/
+/**
+ * main - Entry point
+ *
+ * Description: Prints _putchar
+ *
+ * Return: return 0 always success
+*/
 int main(void)
 {
 	/*call _putchar function to print single characters*/
