@@ -8,7 +8,7 @@
  *
  * Return: no return
  */
-int main(void)
+int main (void)
 {
 	void free_grid(int **grid, int height)
 	{
@@ -16,7 +16,7 @@ int main(void)
 		{
 			for (; height >= 0; height--)
 				free(grid[height];
-				     free(grid);}
+				     free(grid);
 		}
 	}
 }
