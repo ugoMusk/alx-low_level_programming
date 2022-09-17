@@ -1,2 +1,2 @@
 #!/bin/bash
-gcc -S -masm=intel "./6-size.c"
+gcc -S -masm=intel $CFILE -o ${CFILE//'.c'/'.s'}
