@@ -1,6 +1,4 @@
 #include "hash_tables.h"
-/*#include "2-key_index.c"
-  #include "1-djb2.c"*/
 
 /**
  * shash_table_create - creates a sorted hash table
