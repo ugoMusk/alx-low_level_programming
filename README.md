@@ -2,8 +2,10 @@
 
 This repository contains programs written for the low-level programming
 track at ALX Africa. In these projects, which started within the first month  of the year one curriculum, I started learning C.
-Simultaneously, I continued to reinforce and expand my skills in shell
-scripting. The projects i have worked on are as follows:
+And and more of shell
+scripting.
+
+### Projects:
 
 * [0x00. C - Hello, World](./0x00-hello_world)
 * [0x01. C - Variables_If_Else_While](./0x01-variables_if_else_while)
