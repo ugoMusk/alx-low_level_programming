@@ -2,8 +2,7 @@
 
 This repository contains programs written for the low-level programming
 track at ALX Africa. In these projects, which started within the first month  of the year one curriculum, I started learning C.
-And and more of shell
-scripting.
+And and more of shell scripting covered in this [repo](https://github.com/ugoMusk/alx-system_engineering-devops)
 
 ### Projects:
 
