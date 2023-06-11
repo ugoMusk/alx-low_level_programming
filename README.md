@@ -32,12 +32,19 @@ scripting. The projects i have worked on are as follows:
 
 * **ThankGod Ugobo** <[ugoMusk](https://github.com/ugoMusk)>
 
+## CopyWright WARNING!!
+
+- This repository exists as a personal project!!
+- I recommend you read resources provided to have a good knowledge base of covered concepts, that might in turn help you understand solution i have come up with  and also help you better come up with your solution to meet projects requirements and or objectives. Feel free to reach out for help!
+- This repo may contain some errors. If you notice any, please add a pull request.
+
 ## Acknowledgements :pray:
 
 All work contained in this project was completed as part of the curriculum for
 ALX Africa SE. ALX Afica is an online full-stack software
 engineering program that prepares students for careers in the tech industry
-using project-based peer learning. For more information, visit
+using project-based peer learning.
+For more information, visit
 [this link](https://www.alxafrica.com//).
 
 <p align="center">
